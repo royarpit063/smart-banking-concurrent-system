@@ -1,0 +1,21 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Banking System (Main)",
+            "request": "launch",
+            "mainClass": "com.vityarthi.banking.Main",
+            "projectName": "java project",
+            "console": "integratedTerminal"
+        },
+        {
+            "type": "java",
+            "name": "Run Test Suite (BankSystemTest)",
+            "request": "launch",
+            "mainClass": "test.BankSystemTest",
+            "projectName": "java project",
+            "console": "integratedTerminal"
+        }
+    ]
+}

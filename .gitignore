@@ -1,0 +1,16 @@
+# Compiled class files
+out/
+bin/
+*.class
+
+# Temporary / Local Database & Log files
+*.db-journal
+*.tmp
+
+# Retain initial db and log template if needed, or ignore generated run outputs
+Statement_*.txt
+Statement_*.csv
+
+# OS specific files
+.DS_Store
+Thumbs.db

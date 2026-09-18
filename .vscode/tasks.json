@@ -1,0 +1,37 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Run Banking App",
+            "type": "shell",
+            "command": "${workspaceFolder}/RUN_APP.bat",
+            "windows": {
+                "command": "${workspaceFolder}\\RUN_APP.bat"
+            },
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "presentation": {
+                "reveal": "always",
+                "panel": "new",
+                "focus": true
+            },
+            "problemMatcher": []
+        },
+        {
+            "label": "Run Tests",
+            "type": "shell",
+            "command": "${workspaceFolder}/RUN_TESTS.bat",
+            "windows": {
+                "command": "${workspaceFolder}\\RUN_TESTS.bat"
+            },
+            "presentation": {
+                "reveal": "always",
+                "panel": "new",
+                "focus": true
+            },
+            "problemMatcher": []
+        }
+    ]
+}
