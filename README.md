@@ -581,7 +581,7 @@ While this system completely satisfies all desktop and academic requirements, th
 ---
 
 ## 👤 Author & Academic Attribution
-- **Author / Developer:** Arpit Roy
+- **Author / Developer:** Roy Arpit
 - **GitHub Profile:** [@royarpit063](https://github.com/royarpit063)
 - **Repository Link:** [https://github.com/royarpit063/smart-banking-concurrent-system](https://github.com/royarpit063/smart-banking-concurrent-system)
 - **Coursework:** Java Flipped Course Evaluation / VITyarthi Project
