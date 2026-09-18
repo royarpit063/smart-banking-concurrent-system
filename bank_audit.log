@@ -176,3 +176,4 @@
 [2026-09-18 16:05:37.725] [INFO] [Thread: pool-1-thread-6] [TRANSFER] Transferred ₹250.00 from SB341567 (Bal: ₹50000.00) to SB801881 (Bal: ₹50000.00)
 [2026-09-18 16:05:37.748] [INFO] [Thread: pool-1-thread-5] [TRANSFER] Transferred ₹250.00 from SB801881 (Bal: ₹49750.00) to SB341567 (Bal: ₹50250.00)
 [2026-09-18 16:05:37.776] [INFO] [Thread: pool-1-thread-9] [TRANSFER] Transferred ₹250.00 from SB341567 (Bal: ₹50000.00) to SB801881 (Bal: ₹50000.00)
+[2026-09-18 16:12:19.565] [INFO] [Thread: main           ] [SYSTEM_START] Smart Banking & Concurrent Transaction System started.
